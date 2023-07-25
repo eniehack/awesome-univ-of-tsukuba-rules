@@ -1,0 +1,1 @@
+# awesome-tsukuba-of-univ-rules
