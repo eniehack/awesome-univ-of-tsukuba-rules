@@ -1,4 +1,4 @@
-# awesome-tsukuba-of-univ-rules
+# awesome-univ-of-tsukuba-rules
 
 筑波大学の諸規則を並べる
 
