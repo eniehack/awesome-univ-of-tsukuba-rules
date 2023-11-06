@@ -34,6 +34,16 @@
 - [学生団体顧問教員の手引き（学内専用サイト）](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2019/05/63a247ac5b37520652e67a597e006051.pdf)
 - [筑波大学課外活動基本方針（学内専用サイト）](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2020/03/f8474298a5088f83bff5f5777f71dde6.pdf)
 
+### その他
+
+- [学園祭に関する申合せ](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2019/05/512b570f2c4619c1dc3be58ab3c3ee3c.pdf)
+- [筑波大学構内自転車等駐輪実施要項](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2019/05/3ca29d1c064d324f4e4d3572dc4d4a2d.pdf)
+- [学生団体における飲酒問題に係る申し合わせ](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2020/03/db03a03fb4fa0f166f3929ec2471e6f7.pdf)
+  - [【別記様式】活動報告書](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2020/03/4cdc76b41c6b0b346be39faa7d3d0813.pdf)
+- [課外活動施設の時間外使用に関する申し合わせ](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2020/03/7968e485ebec0db35d1404a38058d192.pdf)
+  - [【別記様式】](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2020/03/64f5b890c9622dcb4196f54a59e33654.pdf)
+- [学園祭実行委員会について](https://for-students.sec.tsukuba.ac.jp/wp-content/uploads/sites/7/2019/05/bd8fdb22bccfa74cb366d14859a382e5.pdf)
+
 ## 学生による規則
 
 - [ZDK-Utsukuba/zdk-regulations](https://github.com/ZDK-UTsukuba/zdk-regulations): 全代会の定める規則が収められている。内規と会計細則が収められている。
